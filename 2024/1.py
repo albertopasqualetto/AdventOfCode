@@ -1,4 +1,3 @@
-
 def read_file():
     left = []
     right = []
